@@ -1,7 +1,7 @@
 :root {
-  --diameter: 0.8em;
+  --diameter: 1em;
   --diameter-margin: 0.5em;
-  --time: 0.7s;
+  --time: 0.8s;
 }
 
 body {
